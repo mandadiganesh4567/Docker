@@ -8,4 +8,4 @@ LABEL author="ganesh"\
       topic="Devops"
 ENV trainer="SHiVA"
 
-LABEL The trainer is ="$trainer"
+LABEL The trainer is="$trainer"
